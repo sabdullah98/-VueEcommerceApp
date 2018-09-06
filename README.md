@@ -8,3 +8,11 @@
             <li>Payment confirmation</li>
         </ol>
     
+<h3>Components</h3>
+        <ol>
+            <li>header</li>
+            <li>sidebar</li>
+            <li>main-content</li>
+            <li>footer</li>
+        </ol>
+    
